@@ -9,6 +9,9 @@ pandas = "*"
 matplotlib = "*"
 jinja2 = "*"
 nbconvert = "*"
+openpyxl = "*"
+scipy = "*"
+seaborn = "*"
 
 [dev-packages]
 
